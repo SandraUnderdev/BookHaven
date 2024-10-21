@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="red_100">#FFCDD2</color> <!-- Light Red -->
+    <color name="red_200">#EF9A9A</color> <!-- Light Medium Red -->
+    <color name="red_300">#E57373</color> <!-- Medium Red -->
+    <color name="red_400">#EF5350</color> <!-- Medium Dark Red -->
+    <color name="red_500">#F44336</color> <!-- Standard Red -->
+    <color name="red_600">#E53935</color> <!-- Dark Red -->
+    <color name="red_700">#D32F2F</color> <!-- Darker Red -->
+    <color name="red_800">#C62828</color> <!-- Very Dark Red -->
+    <color name="red_900">#B71C1C</color> <!-- Darkest Red -->
+</resources>
